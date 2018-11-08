@@ -42,6 +42,8 @@
 				5D29295121940F0E0028370E /* Products */,
 			);
 			sourceTree = "<group>";
+			tabWidth = 4;
+			usesTabs = 0;
 		};
 		5D29295121940F0E0028370E /* Products */ = {
 			isa = PBXGroup;
